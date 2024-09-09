@@ -1,0 +1,8 @@
+
+Q1: Why might be consider using git?
+
+Answer: Git is a great resource for collaboration as it allows teams to collaborate
+efficiently by tracking changes, preventing overwrites, and supporting branches for
+development and bug fixes.
+
+
