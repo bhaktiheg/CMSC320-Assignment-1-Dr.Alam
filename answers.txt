@@ -23,3 +23,16 @@ Answer: Merging combines two branches by creating a new commit that brings the c
 preserving the history of both brances. Rebasing, on the other hand, moves or reapplies commits from one 
 branch to another, creating a linear history by eliminating the divergence between branches.
 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my efficiency with Git, becoming faster and more proficient with version control. 
+Additionally, I aim to deepen my knowledge of Python, learning advanced techniques to enhance my coding skills.
+
+
+
+
+
+
+
+
